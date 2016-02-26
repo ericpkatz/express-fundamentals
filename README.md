@@ -1,0 +1,4 @@
+- npm install
+- nodemon app.js
+- try the following routes: '/foo', '/bar', 'bazz'
+- make sure you understand why each route outputs what it does
